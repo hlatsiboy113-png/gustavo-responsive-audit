@@ -1,7 +1,7 @@
 # Understanding Git & Developer Communication: What I Wish I Knew Early
 
 ## Introduction
-When starting web development, I initially thought tools like Git, GitHub, and VS Code were all part of the same system. I followed commands without understanding their purpose, which led to confusion—especially when working in team environments.
+I had no web development knowledge when I started the iHub Web Development Program - I only knew of the concepts of HTML, JavaScript, Python and CSS. Neverknew of the various collaboration tools that existed, I initially thought tools like Git, GitHub, and VS Code were all part of the same system. I followed commands with guidance from AI, the lectures and Google without understanding their purpose, which led to confusion—especially when working in team environments.
 
 Over time, I realized that both technical understanding (Git) and communication play a critical role in how effectively developers collaborate.
 
