@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Understanding Git & Developer Communication: What I Wish I Knew Early
 
 ## Introduction
@@ -235,4 +235,4 @@ Date: 26 April 2026
 
 =======
 # gustavo-responsive-audit
->>>>>>> 9b3db685a54e7b7012266a74d4330fdfff562a33
+
