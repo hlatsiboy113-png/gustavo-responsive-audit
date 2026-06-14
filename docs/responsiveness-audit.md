@@ -135,18 +135,7 @@ CSS
 Result
 The navigation bar now aligns correctly and adapts properly to tablet screen sizes.
 
-![768px after fix](../../assets/screenshots-after/768px-after.png)
-
-
-
-
-
-
-
-
-
-
-
+![768px after fix](screenshots-after/768px-after.png)
 
 
 Screen Size: 1280px (Desktop)
@@ -186,19 +175,9 @@ CSS
 Result
 The navigation bar and page content now fit correctly within the desktop viewport without creating horizontal white-space.
 
-![1280px after fix](../../assets/screenshots-after/1280px-after.png)
+![1280px after fix](screenshots-after/1280px-after.png)
 
 ![375px Responsive Fix](screenshots-after\375px-after.png)
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -210,7 +189,7 @@ Images did not appear in their allocated containers on laptop and desktop device
 Cause
 Incorrect image file paths prevented the browser from locating image assets.
 
-![1280px before fix](../../assets/screenshots-before/1280px-before.png)
+![1280px before fix](screenshots-before/1280px-before.png)
 
 Fix Applied
 Image assets were placed in the correct directory and responsive image handling was implemented.
@@ -218,16 +197,7 @@ Image assets were placed in the correct directory and responsive image handling 
 Result
 Images now appear correctly on laptop and desktop devices and scale appropriately across screen sizes.
 
-![1280px after fix](../../assets/screenshots-after/1280px-after.png)
-
-
-
-
-
-
-
-
-
+![1280px after fix](screenshots-after/1280px-after.png)
 
 
 
